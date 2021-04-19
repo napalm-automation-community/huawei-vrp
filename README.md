@@ -29,6 +29,7 @@ The driver is under development and iteration.
 |  get_interfaces()           |  Get interface information |
 |  get_interfaces_ip()        |  Get interface IP information  |
 |  get_interfaces_counters()  |  Get interface counters  |
+|  get_bgp_neighbors()        |  Get BGP neighbors information (VRF-aware) |
 
 ### Plans to develop
 
